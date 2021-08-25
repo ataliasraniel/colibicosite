@@ -92,3 +92,16 @@ footer {
     position: relative;
     bottom: 0;
 }
+footer hr{
+    width: 30%;
+    border-radius: 0.5px;
+}
+footer i{
+    font-size: 28px;
+}
+footer a{
+    text-align: center;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
